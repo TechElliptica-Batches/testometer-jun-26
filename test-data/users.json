@@ -1,0 +1,182 @@
+[
+    {
+        "scenario": "Valid Username and Password",
+        "username": "testuser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Valid Username and Wrong Password",
+        "username": "testuser",
+        "password": "WrongPass123"
+    },
+    {
+        "scenario": "Wrong Username and Valid Password",
+        "username": "wronguser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Wrong Username and Wrong Password",
+        "username": "wronguser",
+        "password": "WrongPass123"
+    },
+    {
+        "scenario": "Empty Username",
+        "username": "",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Empty Password",
+        "username": "testuser",
+        "password": ""
+    },
+    {
+        "scenario": "Both Username and Password Empty",
+        "username": "",
+        "password": ""
+    },
+    {
+        "scenario": "Username With Leading Space",
+        "username": " testuser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Username With Trailing Space",
+        "username": "testuser ",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Password With Leading Space",
+        "username": "testuser",
+        "password": " Password123"
+    },
+    {
+        "scenario": "Password With Trailing Space",
+        "username": "testuser",
+        "password": "Password123 "
+    },
+    {
+        "scenario": "Username In Upper Case",
+        "username": "TESTUSER",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Username In Lower Case",
+        "username": "testuser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Password Different Case",
+        "username": "testuser",
+        "password": "password123"
+    },
+    {
+        "scenario": "Username With Special Characters",
+        "username": "test@user",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Password With Special Characters",
+        "username": "testuser",
+        "password": "P@ssw0rd!@#"
+    },
+    {
+        "scenario": "Username With Unicode Characters",
+        "username": "测试用户",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Password With Unicode Characters",
+        "username": "testuser",
+        "password": "密码123"
+    },
+    {
+        "scenario": "Very Long Username",
+        "username": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Very Long Password",
+        "username": "testuser",
+        "password": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+        "scenario": "Minimum Length Username",
+        "username": "a",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Minimum Length Password",
+        "username": "testuser",
+        "password": "a"
+    },
+    {
+        "scenario": "Numeric Username",
+        "username": "123456",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Numeric Password",
+        "username": "testuser",
+        "password": "123456"
+    },
+    {
+        "scenario": "SQL Injection Attempt",
+        "username": "' OR '1'='1",
+        "password": "' OR '1'='1"
+    },
+    {
+        "scenario": "SQL Injection In Password",
+        "username": "testuser",
+        "password": "' OR '1'='1"
+    },
+    {
+        "scenario": "XSS Attempt",
+        "username": "<script>alert('xss')</script>",
+        "password": "Password123"
+    },
+    {
+        "scenario": "HTML Injection",
+        "username": "<b>admin</b>",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Only Spaces Username",
+        "username": "     ",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Only Spaces Password",
+        "username": "testuser",
+        "password": "     "
+    },
+    {
+        "scenario": "Newline Characters",
+        "username": "test\nuser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Tab Characters",
+        "username": "test\tuser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Email As Username",
+        "username": "test@example.com",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Locked User Account",
+        "username": "lockeduser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Disabled User Account",
+        "username": "disableduser",
+        "password": "Password123"
+    },
+    {
+        "scenario": "Expired Password",
+        "username": "expireduser",
+        "password": "OldPassword123"
+    }
+]
