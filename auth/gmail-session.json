@@ -1,0 +1,703 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwiQAVbc095Q1-2K2g9Wqeod5r5FVAgfTKtHvLvjTc855xknSKDwqq4TglETpVuhwT8wjZMNmnJEbj9_mqQ",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1798944086.860971,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "funnelVariant",
+      "value": "RESPONSIVE",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1783996868.076906,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "country",
+      "value": "IND",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1783478468.077478,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "currency",
+      "value": "INR",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1783478650.289692,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "defaultlanguage",
+      "value": "en",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1783478468.077525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "language",
+      "value": "en",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1783478639.936066,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "selectedCurrency",
+      "value": "INR",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1783478468.077561,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rayHomeAB",
+      "value": "V0",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1788576068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "freeSearchAB",
+      "value": "V0",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1788576068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "abExpsVariantsForMri",
+      "value": "[]",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "value": "79080D555FA834A0674B0A2CCE597100~-1~YAAQH13SF0hRzgWfAQAAxGJzOhBv7aBuUBDkGKgWpZDKusIqGZVDhp3FpZbKH9STBFNLb83VOEYGvxiXomNK4kcbz6eI0C1hnlEVlA6xe+VmhcZ8I5H3b+bEEweyeb3s5rNZmAfXeQXOEJR7OvKeaKkgz6b62IwUwOC2T7qubdPtIGrCNNqO6tg0bEiqUT4UP4LwD35BLFoAiMtpE78QsHWR9I1U9SSGpGt4WinCpl8UROuWa/VF3IaNa/Z3UNaEavx28gkiak8EdUNhY3nA4kU25uBl7WmzNirfmd1WAHvYsRRfJ0e0GOBpbwQkved4gy8MUT1GTWraCig8FSPCfHupsIVUACuWC108PbNxFm8tuHetcj3mATeiL6vWnC1lG07097As5tD41Lt2Nb5FD6OuiRM2EmLyn4z8FdINAJN5dqLxugtnAhXPnQZsSq7EffzFjKb+berm00W605Ui0U5Yx4yo5ucbb6V/JJx/7Q==~-1~-1~-1~-1~-1",
+      "domain": ".redbus.in",
+      "path": "/",
+      "expires": 1814928068.349393,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "channel",
+      "value": "DWEB",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1817952240.072793,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "defaultLanguage",
+      "value": "en",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1783478468.715541,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rbuuid",
+      "value": "4efa0fb0-79ad-11f1-a82f-81e625ee703e",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1814928068.715551,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mriClientId",
+      "value": "BR4efa0fb1-79ad-11f1-a82f-81e625ee703e",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1814928068.715563,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "env",
+      "value": "PROD",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "buildVersion",
+      "value": "PROD_be0cb1c5d8",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1243709628.1783392069",
+      "domain": ".redbus.in",
+      "path": "/",
+      "expires": 1817952240.226024,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rb_fpData",
+      "value": "%7B%22userAgent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F148.0.7778.96%20Safari%2F537.36%22%2C%22browser%22%3A%22Chrome%22%2C%22version%22%3A%22148.0.7778.96%22%2C%22os%22%3A%22Windows%22%2C%22osVersion%22%3A%2210.0%22%2C%22deviceType%22%3A%22Desktop%22%2C%22screenSize%22%3A%221280%2C720%22%2C%22screenDPI%22%3A1%2C%22screenResolution%22%3A%221280x720%22%2C%22screenColorDepth%22%3A30%2C%22aspectRatio%22%3A%2216%3A9%22%2C%22systemLanguage%22%3A%22en-US%22%2C%22connection%22%3A%224g%22%2C%22effectiveConnection%22%3A%224g%22%2C%22timeZone%22%3A5.5%7D",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1817952073.50142,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "prev_mriSessionId",
+      "value": "BR4efa0fb1-79ad-11f1-a82f-81e625ee703e",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1817952073.502153,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1783392079495,\"i_b\":\"aCqLkdb7QKpdMInw54JtzsB1QxZPQPrAm1f+qGPn84M\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1783392079495}",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1798944079,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ums",
+      "value": "8a6ad9a7-030b-49b6-bff0-01413ec79c78%2C56a60a09-7235-4547-996a-a0e782c4c1c0%2C7c0627a8-e8e9-49b5-b297-5ed5e9143d3b%2Cb3293493-60c5-4cdb-8f94-340f1aa4971b",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1814928237,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userInfo",
+      "value": "%7B%22PEmail%22%3A%22%22%2C%22PMobile%22%3A%229764326834%22%2C%22Dob%22%3A%22%22%2C%22DisplayName%22%3A%22%22%2C%22Gender%22%3A0%2C%22IsEmailVerified%22%3Afalse%2C%22IsMobileVerified%22%3Atrue%2C%22PasswordExists%22%3Afalse%2C%22WalletId%22%3A%225vNSAp8HHOI-vDD3PNkIAA%22%2C%22IsWalletEnabled%22%3Atrue%2C%22IsPassKeyPresent%22%3Afalse%2C%22UserIdHash%22%3A%22syUEQOUSQT9xoTpA%2FYx5EwW52KV9l4QK00dsM5ZH25I%3D%22%2C%22PhoneCode%22%3A91%2C%22DefaultCountry%22%3A%22IND%22%2C%22CountryCode%22%3A%22IND%22%2C%22CreatedOn%22%3A%222022-05-09T14%3A13%3A19%22%2C%22WalletBalance%22%3A%7B%22totalBalance%22%3A0%2C%22offerBalance%22%3A0%2C%22coreBalance%22%3A0%2C%22offers%22%3A%5B%5D%2C%22debitAmountBreakUp%22%3Anull%2C%22isWalletEnabled%22%3Atrue%2C%22currency%22%3A%22INR%22%2C%22isSoftLogin%22%3Afalse%7D%2C%22PEmailHash%22%3A%22MTYzZDNjMjI1NjI2OWFjYzg5MDYwMTdiY2JhNjdjNjQzMDhhYjRjYzk2NzFhMGZlZTA2YmNmYzk%3D%22%2C%22FBAuthToken%22%3A%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5dG9vbGtpdC5nb29nbGVhcGlzLmNvbS9nb29nbGUuaWRlbnRpdHkuaWRlbnRpdHl0b29sa2l0LnYxLklkZW50aXR5VG9vbGtpdCIsImV4cCI6MTc4MzM5NTgzNywiaWF0IjoxNzgzMzkyMjM3LCJpc3MiOiJmaXJlYmFzZS1hZG1pbnNkay1vYmYybUBhcGktcHJvamVjdC0yMzExNzE2ODk2MTUucmVkYnVzLmluLmlhbS5nc2VydmljZWFjY291bnQuY29tIiwic3ViIjoiZmlyZWJhc2UtYWRtaW5zZGstb2JmMm1AYXBpLXByb2plY3QtMjMxMTcxNjg5NjE1LnJlZGJ1cy5pbi5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInVpZCI6Ik1UWXpaRE5qTWpJMU5qSTJPV0ZqWXpnNU1EWXdNVGRpWTJKaE5qZGpOalF6TURoaFlqUmpZemsyTnpGaE1HWmxaVEEyWW1ObVl6az0ifQ.klZIsvJsCkqZ67TJek6tHSxScqTTk5LDdlJNRjLq5dCN4Zo-wScgNkWL9A-FouIlftB-jp2jRZ2JqTX4_h0PzjN1rMbQCksaxI8Ut54D0vLkana11Ul2Ilg59mA6sK4wzqiMBk9SlfKZM4INLhzfOmiI32Etk9gD9HAe_SioYTqLR4U4-6YnuP-MzxvRNThvpP5YG6857ANk2axm98bU9MuGiS1EWv72NioIYpHf2vuv4FRZgGi38woAoxTI62TzWoaeHNqqDiDM40eGxtcap_Ai0_H6o5G0w8Wpvv4OaRqcYQU-ePEY4UWczM98yrcx0tmsGXV4xPHGbshV0o5Kdw%22%2C%22ThirdPartyUserId%22%3A%22%22%2C%22AppleUniqueIdentifier%22%3Anull%2C%22isSignup%22%3Afalse%2C%22LoginRegionData%22%3A%7B%22isRegionEnabled%22%3Atrue%2C%22RegionName%22%3A%22Maharashtra%22%2C%22RegionalLanguage%22%3A%22hindi%22%7D%2C%22SuspensionInfo%22%3Anull%2C%22BUS%22%3A%7B%22UserType%22%3A%22NEW%22%7D%2C%22RAILS%22%3A%7B%22UserType%22%3A%22NEW%22%7D%2C%22RYDE%22%3A%7B%22UserType%22%3A%22RETURNING%22%7D%2C%22Uuid%22%3A%228f161304-da6d-43e5-a2ba-82506fc723a7%22%7D",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1814928239,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionUserType",
+      "value": "NEW",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1814928239,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lastloginmode",
+      "value": "MOBILENUMBER",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1817952239.587504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "me_uidhash",
+      "value": "syUEQOUSQT9xoTpA%2FYx5EwW52KV9l4QK00dsM5ZH25I%3D",
+      "domain": "www.redbus.in",
+      "path": "/",
+      "expires": 1814928239,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "value": "666ED0BAD9E5E88A1B4ABABEA014AAAA~YAAQH13SFxVbzgWfAQAAjgF2OgABHd9be0csYDBDi3OBGVVmJHHyxfXDdVoXGiX1Ui8hfFgVyUzy7Ek7cllFqpl10nVvSkYHj3MHI8ZOinLWThSfwPlp51z3CcjwsR38BOIhxTcVZU6I1trPyZVfn1AgglPerwodIooURwN7Nd92/fWz3c/96u8g6Xr+7vifW9uQ2NO76a7OK867gW+GuWI+0GesTdga/6fSjkExqnciFqaZ/a+AvsTGLEpfvql7kPzoD1Vjw7YgaqHwM4MDH2Un8FSiAL0oDRaeFDpfzVVB7K6hUyC4VVXzKMY6TElA1NZDcw3Rbnz8I9xqPXL1q6MqG0zKTtuaD+zJt51oV6u2ZEm+mpzsqTgOriZ+wbakVctVTshg/iQQhm0zzwiGMeoPlJc=~3289666~4405552",
+      "domain": ".redbus.in",
+      "path": "/",
+      "expires": 1783406467.936095,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_W2P7QGN8S2",
+      "value": "GS2.1.s1783392069$o1$g1$t1783392248$j29$l0$h1540704641",
+      "domain": ".redbus.in",
+      "path": "/",
+      "expires": 1817952248.626667,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "ac4a582d-3f3c-4063-9051-6c79f3623861:BQoAhCwTn4ADAAAA:WldmwT77SyLwGKmkql3r8S1OWyYvHChDdykMgSlkYkTWLCfToGQvYJJu1YNca1W3U/bYoyuKile/TRuWxdfik+J/hCbXu4/zFkBJt1n6S8OLonEau1EQ4NYht+VwyDWYSPXTSduqYe2L3nQrQKZXPeLv2S0y91x+th73TDB0NCgicx/syKCSFcdnEBzjyytK41jv31/Kzu4z+Ui87l6P",
+      "domain": ".www.amazon.com",
+      "path": "/",
+      "expires": 1783738254,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csm-sid",
+      "value": "353-6537393-2662935",
+      "domain": "www.amazon.com",
+      "path": "/",
+      "expires": 1785759424,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-amz-captcha-1",
+      "value": "1783399857258096",
+      "domain": "www.amazon.com",
+      "path": "/",
+      "expires": 1814928657.261053,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-amz-captcha-2",
+      "value": "o3p4g+bRslfkX4XIFk2CoA==",
+      "domain": "www.amazon.com",
+      "path": "/",
+      "expires": 1814928657.261098,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-id",
+      "value": "138-8325846-3392531",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1817953922.618341,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i18n-prefs",
+      "value": "INR",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1814928678.686589,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lc-main",
+      "value": "en_US",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1814928678.686634,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp-cdn",
+      "value": "\"L5Z9:IN\"",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1814928657.552804,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "skin",
+      "value": "noskin",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ubid-main",
+      "value": "132-0086810-2294450",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1814928685.325867,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-id",
+      "value": "Ax9Cvdh3l0iJiBfxtwIPNrI",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1806547861.835259,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1817952661.835312,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uids",
+      "value": "eyJ0ZW1wVUlEcyI6eyJhbWF6b24iOnsidWlkIjoidExqM1F2c2tRS08zOGxsMGRTaUVldyIsImV4cGlyZXMiOiIyMDI2LTA3LTIxVDAyOjUxOjAyLjM0MTY2NzQzNVoifX19",
+      "domain": ".pbs.yahoo.com",
+      "path": "/",
+      "expires": 1799117462.283954,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cids",
+      "value": "eyJ0ZW1wVUlEcyI6eyJhbWF6b24iOnsidWlkIjoidExqM1F2c2tRS08zOGxsMGRTaUVldyIsImV4cGlyZXMiOiIyMDI2LTA3LTIxVDAyOjUxOjAyLjM0MTY5NzQwN1oifX19",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1799117462.284,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "akxplhdaRMoAMsYyA2GQbAAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1814928662.498946,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "5511",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1791168662.349541,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "5511",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1791168662.498983,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "LUO8ObNjr8M5sJrfkZYwv7y3OtTMUHxyxtVvDmkAkZT5XdRnYCKWST2ipiDAad95Dd3EQ6ZRpU43KLi0bRRCR55OB03XAFHt0pzRsudDo9Q.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1791168662.476871,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amazon.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "uuid2",
+      "value": "6987426599634380379",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1791168662.477032,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "1882527863711107864",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1791168663.358522,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "value": "ok",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1817520663.35861,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "7a90f0dc-cffa-43fb-9125-66591ec55c7a",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1791168662.412382,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1783392662",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1791168662.412468,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cnx_userId",
+      "value": "2-caa6171d2bc14bc396f4de67d7140eae",
+      "domain": ".connatix.com",
+      "path": "/",
+      "expires": 1785984662.414633,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4/YF7/.XF']wIg2GTxl$JFp!]tbPl1M]o$IyEVUcKA2>49W6>433nAa+WHF5KVtII:rocuQ=*3@s+(#BI7y)N[UD!!*Q0)^oaO",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1791168662.476993,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "um",
+      "value": "!416,Gvqz3LcmV.LOniWwmf-ZWoNUdmnlOQQ3VxN-tD42BdLRvp5OIGpWu66n68cdfD-RNLxrzg,1791168662",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1791168662.549178,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "umeh",
+      "value": "!416,0,1845600662,-1",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1791168662.549224,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uid",
+      "value": "umg3345_7660198548061190550",
+      "domain": ".fwmrm.net",
+      "path": "/",
+      "expires": 1798944662.549536,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "value": "144:7yQ-brG5TNSIA4EVsKUNgA|171:pXJQxpMnSnGwIn8YHjQTDw",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1785984662.708526,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zc",
+      "value": "244c6286-44f4-49f5-6546-1b1b27a1b640",
+      "domain": ".zeotap.com",
+      "path": "/",
+      "expires": 1814928662.864621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rxc",
+      "value": "ALkGh5oH1AJTe7xqJ7Q",
+      "domain": "www.amazon.com",
+      "path": "/",
+      "expires": 1783479074.206139,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csm-hit",
+      "value": "tb:YPMA2MQ228BGCNB47V90+s-0PG7H6R9RAYXDZK8AWES|1783392678578&t:1783392678578&adb:adblk_no",
+      "domain": "www.amazon.com",
+      "path": "/",
+      "expires": 1813632678,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-id-time",
+      "value": "2082787201l",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1817953922.618559,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-token",
+      "value": "JL1tIj1rDSFNFupKmLNaQrdbSCJMDR3+Zk7vl7M5fe8hbGESMjC2OeMssAIZvJYGrvaY8sQNcMiS7CqgBopmGrLqFI4lTHGERbucZwOB9GFqjbe7/8+s7LW2UOfhR5EtXxY3TxcM7bYgMHoGUvhyA5RQ6NEA7fwFoROKdYD+w8EvphrXEZ23zcLPsoZOZdq0BhLtmHcDzuZMz/gC06IJPDpTUjzT2lXn",
+      "domain": ".amazon.com",
+      "path": "/",
+      "expires": 1814930961.974359,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.redbus.in",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09AKhCRwgzCvUtWb3wm4iKbLdUI4C0D0vhoAy9AZHPI7GxKZL5Az_XEDMjTRW0dV2j2yRwAoaoh1824pciT-jJ3RGA9dXy_DO_yaqY7jqkTeSsy8ez_leqOrcujoUvwP4x"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MTNwY2d2aHR2YjJsMg=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAL5LEXsLgqNeyFS5uF68tAXewdPg7CEIchQkPwT8EjrqSeNRUXfF9_ih3WSeQF59ziw-WPo"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.amazon.com",
+      "localStorage": [
+        {
+          "name": "aws_waf_token_challenge_attempts",
+          "value": "{\"attempts\":1,\"lastAttemptTimestamp\":1783392654111}"
+        },
+        {
+          "name": "csa-ctoken-TF06PCRA4EVT975F18PZ",
+          "value": "1783403596329"
+        },
+        {
+          "name": "csm-bf",
+          "value": "[\"TF06PCRA4EVT975F18PZ\",\"0PG7H6R9RAYXDZK8AWES\",\"RTT1P1CXG1VRC435AFR5\",\"YPMA2MQ228BGCNB47V90\"]"
+        },
+        {
+          "name": "a-font-class",
+          "value": "a-ember-modern a-ember a-ember-1-0-0 a-ember-modern-display a-ember-modern-display-1-0-0 a-ember-modern-text a-ember-modern-text-1-0-0"
+        },
+        {
+          "name": "amznfbgid",
+          "value": "X71-2986417-1301846:1783392661"
+        },
+        {
+          "name": "csm:adb",
+          "value": "adblk_no"
+        },
+        {
+          "name": "rx",
+          "value": "AIzvj3eU6vX5+prWthbn2jS1Hy2e39XPcHmaLRAFMRPAqu8kgNyiKArQhJqEEgTRIa6ARE/9JrkoV4QH83zhJ4/MhG6PUlbBZC97W6fpDJ9pjv33w8HApMvllw03c2TR5Mcjcm3qSRC/8+B79OxWo2Ru9u/tiTXFaEbexp0tvYTVtih9/IMfGxVuOg39kUsxsDIJbnlCpUu0Yk4Rr7PGv//JcE/A9A5ouTWZw8GsQR6SaTa/8ldbeI7mdvV+fZJ2BkaJmvoJShaVsx7pdOWYah0HL3lzOh20McQwyF09Vk9fUM4em+0IuJGd6LIEdvdqcP5Pdb1Rv80ezG7EQ9cilcFnX0lEG7hN6ecnse0UxbA20/LEeDb1rJf2Q8SCp0NYw8DWeheBz04m18nwx46s4LQbAYnUPD6NCSIZuk3jZeSkJKLCWUbOgXVTGbJDhcAcsE7a7YAmOv1f7QbzgPkW97cQeyYG3Q2R2/INLgK1CoqizsgbG22vJ4yLacnJi38+3n2u1sEojYzyf/ESTMHX9Am00hmD2S84x3gaxspxqx1j43fwIs/DxIqKwOeCfw"
+        },
+        {
+          "name": "csa-tabbed-browsing",
+          "value": "{\"lastActive\":{\"visible\":true,\"pid\":\"c8e7wv-3imxh3-lcbxmu-448gc0\",\"tid\":\"c33fmz-yl9bf9-z17ddf-tzh53x\",\"ent\":{\"rid\":\"0PG7H6R9RAYXDZK8AWES\",\"ety\":\"AuthenticationPortal\",\"esty\":\"SignInPwdCollect\"}},\"lastInteraction\":{\"id\":\"3yufln-yu86t6-fbg507-bm1vbz\",\"used\":false},\"time\":1783399996330,\"initialized\":true}"
+        },
+        {
+          "name": "aws_waf_referrer",
+          "value": "{\"referrer\":\"\"}"
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1783392654375"
+        },
+        {
+          "name": "csm-hit",
+          "value": "tb:s-TF06PCRA4EVT975F18PZ|1783399995932&t:1783399996321&adb:adblk_no"
+        },
+        {
+          "name": "rx-pnt",
+          "value": "1783399995|1"
+        }
+      ]
+    }
+  ]
+}

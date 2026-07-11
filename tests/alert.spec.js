@@ -34,3 +34,25 @@ test("handling window @windowtest", async ({page})=>{
 
     //await page.waitForTimeout(5000);
 });
+
+// OTP validation , captha validation
+// qa, dev, 
+// 1 - by pass these actions - 5%
+// 2 - always same - 95%
+
+// login with microsoft 
+// login with sso
+// login with 
+
+// session details - cokkies, cache
+// token, session cache , 
+// save - session loading process 
+
+// playwright - save session details and you can load that session again
+
+
+
+
+// Jenkins - schudular 
+// window-
+
