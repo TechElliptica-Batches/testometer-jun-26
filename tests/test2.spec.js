@@ -33,7 +33,7 @@ test("My tetscase", async({page}) => {
     // firstname, lastname, dob, gender
 });
 
-test.only("Valid Credentials login user", async({page}) => {
+test("Valid Credentials login user", async({page}) => {
     // await page.goto("https://www.saucedemo.com",{timeout: 60000});
     expect(await page.getByPlaceholder("Username")).toBeVisible();
     await page.getByPlaceholder("Username").fill("standard_user");
